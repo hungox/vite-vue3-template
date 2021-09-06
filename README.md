@@ -1,5 +1,5 @@
 # Vite + Vue 3 + TypeScript Template
-Online Demo: https://hung92.github.io/vite-vue3-starter/
+Online Demo: https://hung92.github.io/vite-vue3-template/
 
 ### install packages
 
