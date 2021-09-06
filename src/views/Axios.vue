@@ -8,7 +8,7 @@ import axios from '@/utils/axios'
 export default defineComponent({
   setup() {
     axios
-      .get('/users/hungnd101')
+      .get('/users/hung92')
       .then((res) => {
         // eslint-disable-next-line no-console
         console.log('res: ', res)
